@@ -1,0 +1,33 @@
+Decision Tree
+One of the most commonly used Machine Learning Algorithm is the Decision Tree, which is a flow chart like structure that leads us to an outcome based on the data and the decisions it takes. A typical decision tree diagram (flow chart) looks like this -
+
+--------------------------------------------------------------
+Understanding the decision tree
+Here, if we look at this closely, we can see that it has a tree like structure. Have you seen this type of a structure before? Of course, we have family trees that look exactly like this.
+
+
+Here are the following components of a decision tree -
+
+Root Node - The root node is the one which represents the entire population. This is the point from where the population gets divided into 2 or more groups.
+Internal Node - An internal node is again like the root node, but it does not contain the entire population. We further divide our data into more groups from here.
+Leaf Node - A leaf node is the one that represents the final outcome.
+
+
+-----------------------------------------------------------------
+
+Let's understand this with an example.
+
+
+Here, if we try to see the example above, We can say that the root node has all the population. It decides to split the data based on the number of hours of sleep.
+
+
+After splitting the data, It has the internal nodes as the population of the students who slept for less than 8 hours on the left and the students who slept for more than or equal to 8 hours on the right.
+
+
+Now it further splits the population more based on the time of their exam, if it is in the morning or in the evening.
+
+
+Based on the analysis from this decision tree, we can say that a student who sleeps for less than 8 hours and has their exam in the morning would fail.
+
+
+Easy, isn't it? But how does this algorithm works?

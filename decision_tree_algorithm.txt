@@ -1,0 +1,19 @@
+Decision Tree Algorithm
+The first thing that would come in mind is that, how do we split the data? What is the best metric to split the data? In the example above, why did we not split the data based on the time of the exam from the root node, rather than splitting it based on the number of hours of sleep?
+
+
+For this, we have something known as Attribute Selection Measures or ASM which we use to split the data.
+
+
+
+Attribute Selection Measures
+It is used for selecting the splitting criteria that splits data in the best possible manner. It provides a rank to each feature by explaining the given dataset. The feature with the best score gets selected as the splitting attribute.
+
+
+Next, based on the feature that is selected, our algorithm would split the data into 2 or more groups.
+
+
+It starts building a tree structure by repeating this process recursively for each child (or Internal Node) until it reached a final output following all the paths in the flow chart.
+
+
+Now let's dive into some coding! The first thing we'll do is to upload the CSV.
