@@ -15,3 +15,29 @@ The goal of this algorithm is to create a model that predicts the value of a tar
 
 
 
+--------------------
+Fundamentally, classification is about predicting a label and regression is about predicting a quantity. ... That classification is the problem of predicting a discrete class label output for an example. That regression is the problem of predicting a continuous quantity output for an example.
+
+------------------
+
+The main difference between Regression and Classification algorithms that Regression algorithms are used to predict the continuous values such as price, salary, age, etc. and Classification algorithms are used to predict/Classify the discrete values such as Male or Female, True or False, Spam or Not Spam, etc.
+
+---------------------
+
+Difference between Regression and Classification
+Regression Algorithm	
+In Regression, the output variable must be of continuous nature or real value.	
+The task of the regression algorithm is to map the input value (x) with the continuous output variable(y).	
+Regression Algorithms are used with continuous data.
+In Regression, we try to find the best fit line, which can predict the output more accurately.	
+Regression algorithms can be used to solve the regression problems such as Weather Prediction, House price prediction, etc.	
+The regression Algorithm can be further divided into Linear and Non-linear Regression.	
+
+
+Classification Algorithm
+In Classification, the output variable must be a discrete value.
+The task of the classification algorithm is to map the input value(x) with the discrete output variable(y).
+Classification Algorithms are used with discrete data.
+In Classification, we try to find the decision boundary, which can divide the dataset into different classes.
+Classification Algorithms can be used to solve classification problems such as Identification of spam emails, Speech Recognition, Identification of cancer cells, etc.
+The Classification algorithms can be divided into Binary Classifier and Multi-class Classifier.
