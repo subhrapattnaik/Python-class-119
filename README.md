@@ -23,6 +23,7 @@ Fundamentally, classification is about predicting a label and regression is abou
 The main difference between Regression and Classification algorithms that Regression algorithms are used to predict the continuous values such as price, salary, age, etc. and Classification algorithms are used to predict/Classify the discrete values such as Male or Female, True or False, Spam or Not Spam, etc.
 
 ---------------------
+https://www.javatpoint.com/regression-vs-classification-in-machine-learning
 
 Difference between Regression and Classification
 Regression Algorithm	
